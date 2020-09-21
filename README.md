@@ -3,27 +3,27 @@
  It includes CRUD(Create Read Update Delete) operations.  
 # Preview of Website
 ## Home Page
-![](Home.png)
+![](Home.png "Home")
 #### This is the view of Home Page of ECOM.    
 In this page, You can   
--Select Products.   
--Navigate to other Pages.      
+- Select Products.   
+- Navigate to other Pages.      
 ## Categories Page
-![](Categories.png)
+![](Categories.png "Categories")
 #### This is the view of Categories Page of ECOM.  
 In this page, You can   
--Select categories.       
--Navigate to other Pages.    
+- Select categories.       
+- Navigate to other Pages.    
 ## Product Page
-![](Product.png)
+![](Product.png "Product")
 #### This is the view of Product Page of ECOM.      
 In this page, You can   
--Read/View information of Products.    
--Create Products.   
--Update Products.   
--Delete Products.   
--Navigate to other Pages.           
+- Read/View information of Products.    
+- Create Products.   
+- Update Products.   
+- Delete Products.   
+- Navigate to other Pages.           
 ## Contact Us Page
-![](Contact Us.png )
+![](Contact Us.png "Contact Us")
 #### This is the view of Product Page of ECOM.      
 In this page, You can Contact Us and we will get back to you as soon as possible.     
