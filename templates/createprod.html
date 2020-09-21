@@ -1,0 +1,13 @@
+<form method="POST" enctype="multipart/form-data" action="/createprod/">
+{% csrf_token %}
+{{form.as_p}}
+<input id="btn" type="submit">
+</form>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script>
+$(document).ready(function(){
+$("#btn").click(function(){
+alert("You have Successfully Created This Product."); 
+});
+});
+</script>
