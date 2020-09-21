@@ -25,5 +25,5 @@ In this page, You can
 - Navigate to other Pages.           
 ## Contact Us Page
 ![](ContactUs.png "Contact Us")
-#### This is the view of Product Page of ECOM.      
+#### This is the view of Contact us Page of ECOM.      
 In this page, You can Contact Us and we will get back to you as soon as possible.     
