@@ -1,6 +1,11 @@
 # E-Commerce Website
- A basic Ecommerce Website using Django, HTML, CSS, JQuery.  
- It includes CRUD(Create Read Update Delete) operations.  
+ A basic Ecommerce Website using   
+ - Python
+ - Django
+ - HTML
+ - CSS
+ - JQuery   
+ It includes CRUD(Create Read Update Delete) Operations.  
 # Preview of Website
 ## Home Page
 ![](Home.png "Home")
