@@ -4,7 +4,7 @@
  - Django
  - HTML
  - CSS
- - JQuery   
+ - JQuery  
  It includes CRUD(Create Read Update Delete) Operations.  
 # Preview of Website
 ## Home Page
